@@ -1,0 +1,80 @@
+[
+  {
+    "className": "text-wrapper",
+    "literalText": "Rickymakes",
+    "dataField": "brand",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-1",
+    "literalText": "CHARCOAL",
+    "dataField": "productName",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-2",
+    "literalText": "text 1",
+    "dataField": "feature1",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-3",
+    "literalText": "text 2",
+    "dataField": "feature2",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-4",
+    "literalText": "1",
+    "dataField": "itemNumber",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-5",
+    "literalText": "$5",
+    "dataField": "price",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-6",
+    "literalText": "ea",
+    "dataField": "Price-unit-1",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-9",
+    "literalText": "$5",
+    "dataField": "Price-2",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-10",
+    "literalText": "ea",
+    "dataField": "Price-Unit-2",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-11",
+    "literalText": "$5",
+    "dataField": "Price-3",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-12",
+    "literalText": "ea",
+    "dataField": "Price-Unit-3",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-7",
+    "literalText": "Rickymakes.com",
+    "dataField": "website",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-8",
+    "literalText": "1QT",
+    "dataField": "size",
+    "isDataField": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "className": "text-wrapper",
+    "literalText": "Rickymakes",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-2",
+    "literalText": "text 1",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-3",
+    "literalText": "Liitos Mount",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-4",
+    "literalText": "&nbsp;",
+    "dataField": "",
+    "isDataField": false
+  },
+  {
+    "className": "text-wrapper-5",
+    "literalText": "Light",
+    "dataField": "",
+    "isDataField": false
+  },
+  {
+    "className": "text-wrapper-6",
+    "literalText": "1",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-7",
+    "literalText": "$5",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-8",
+    "literalText": "ea",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-7",
+    "literalText": "$5",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-8",
+    "literalText": "ea",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-7",
+    "literalText": "$5",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-8",
+    "literalText": "ea",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-9",
+    "literalText": "Rickymakes.com",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-10",
+    "literalText": "1QT",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "bool-mount",
+    "literalText": "(boolean toggle)",
+    "dataField": "",
+    "isDataField": true
+  },
+  {
+    "className": "bool-light",
+    "literalText": "(boolean toggle)",
+    "dataField": "",
+    "isDataField": true
+  }
+]

@@ -54,25 +54,25 @@
     "isDataField": true
   },
   {
-    "className": "text-wrapper-7",
+    "className": "text-wrapper-11",
     "literalText": "$5",
     "dataField": "Price-2",
     "isDataField": true
   },
   {
-    "className": "text-wrapper-8",
+    "className": "text-wrapper-12",
     "literalText": "ea",
     "dataField": "Price-Unit-2",
     "isDataField": true
   },
   {
-    "className": "text-wrapper-7",
+    "className": "text-wrapper-13",
     "literalText": "$5",
     "dataField": "Price-3",
     "isDataField": true
   },
   {
-    "className": "text-wrapper-8",
+    "className": "text-wrapper-14",
     "literalText": "ea",
     "dataField": "Price-Unit-3",
     "isDataField": true

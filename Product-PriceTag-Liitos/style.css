@@ -412,3 +412,57 @@
   letter-spacing: 3.33px;
   line-height: normal;
 }
+
+.element-in-x-in .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.50px;
+  font-family: "Antic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-in-x-in .text-wrapper-12 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  font-family: "Antic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15.5px;
+  letter-spacing: 0;
+  line-height: 18.5px;
+  white-space: nowrap;
+}
+
+.element-in-x-in .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.50px;
+  font-family: "Antic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element-in-x-in .text-wrapper-14 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  font-family: "Antic-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15.5px;
+  letter-spacing: 0;
+  line-height: 18.5px;
+  white-space: nowrap;
+}

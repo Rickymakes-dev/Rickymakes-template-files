@@ -85,7 +85,7 @@
   flex-grow: 1;
 }
 
-.element-in-x-in .div {
+.element-in-x-in .text-wrapper-1 {
   position: relative;
   flex: 1;
   align-self: stretch;

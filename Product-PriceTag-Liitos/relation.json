@@ -2,20 +2,26 @@
   {
     "className": "text-wrapper",
     "literalText": "Rickymakes",
-    "dataField": "",
+    "dataField": "brand",
+    "isDataField": true
+  },
+  {
+    "className": "text-wrapper-1",
+    "literalText": "TERRARIUM MIX",
+    "dataField": "productName",
     "isDataField": true
   },
   {
     "className": "text-wrapper-2",
     "literalText": "text 1",
-    "dataField": "",
+    "dataField": "feature1",
     "isDataField": true
   },
   {
     "className": "text-wrapper-3",
     "literalText": "Liitos Mount",
     "dataField": "",
-    "isDataField": true
+    "isDataField": false
   },
   {
     "className": "text-wrapper-4",
@@ -32,67 +38,67 @@
   {
     "className": "text-wrapper-6",
     "literalText": "1",
-    "dataField": "",
+    "dataField": "itemNumber",
     "isDataField": true
   },
   {
     "className": "text-wrapper-7",
     "literalText": "$5",
-    "dataField": "",
+    "dataField": "price",
     "isDataField": true
   },
   {
     "className": "text-wrapper-8",
     "literalText": "ea",
-    "dataField": "",
+    "dataField": "Price-unit-1",
     "isDataField": true
   },
   {
     "className": "text-wrapper-7",
     "literalText": "$5",
-    "dataField": "",
+    "dataField": "Price-2",
     "isDataField": true
   },
   {
     "className": "text-wrapper-8",
     "literalText": "ea",
-    "dataField": "",
+    "dataField": "Price-Unit-2",
     "isDataField": true
   },
   {
     "className": "text-wrapper-7",
     "literalText": "$5",
-    "dataField": "",
+    "dataField": "Price-3",
     "isDataField": true
   },
   {
     "className": "text-wrapper-8",
     "literalText": "ea",
-    "dataField": "",
+    "dataField": "Price-Unit-3",
     "isDataField": true
   },
   {
     "className": "text-wrapper-9",
     "literalText": "Rickymakes.com",
-    "dataField": "",
+    "dataField": "website",
     "isDataField": true
   },
   {
     "className": "text-wrapper-10",
     "literalText": "1QT",
-    "dataField": "",
+    "dataField": "size",
     "isDataField": true
   },
   {
     "className": "bool-mount",
     "literalText": "(boolean toggle)",
-    "dataField": "",
+    "dataField": "Bool-mount",
     "isDataField": true
   },
   {
     "className": "bool-light",
     "literalText": "(boolean toggle)",
-    "dataField": "",
+    "dataField": "Bool-light",
     "isDataField": true
   }
 ]
